@@ -1,6 +1,6 @@
 # LeetCode Problems Repository
 
-Welcome to my LeetCode Solutions repository! 🚀 Here, you'll find my solutions to various LeetCode problems, carefully curated and explained. This collection is a testament to my continuous learning journey in algorithmic problem-solving.
+Welcome to my LeetCode Problems repository! 🚀 Here, you'll find my solutions to various LeetCode problems, carefully curated and explained. This collection is a testament to my continuous learning journey in algorithmic problem-solving.
 
 ## Why LeetCode?
 
